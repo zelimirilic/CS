@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "ProjectFilePath": "c:\\Users\\zelimir.ilic\\Desktop\\Zeljko\\CS\\Employee1\\C#.csproj",
   "TargetFramework": "netcoreapp2.1",
@@ -11,4 +12,19 @@
       }
     ]
   }
+=======
+{
+  "ProjectFilePath": "c:\\Users\\zelimir.ilic\\Desktop\\Zeljko\\CS\\Employee1\\C#.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+>>>>>>> 3292d42d31186cc45d09cfe8fce7e97c7733d933
 }
