@@ -1,0 +1,11 @@
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\OOP\obj\Debug\netcoreapp2.1\OOP.csprojAssemblyReference.cache
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\OOP\obj\Debug\netcoreapp2.1\OOP.csproj.CoreCompileInputs.cache
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\OOP\obj\Debug\netcoreapp2.1\OOP.AssemblyInfoInputs.cache
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\OOP\obj\Debug\netcoreapp2.1\OOP.AssemblyInfo.cs
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\OOP\bin\Debug\netcoreapp2.1\OOP.deps.json
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\OOP\bin\Debug\netcoreapp2.1\OOP.runtimeconfig.json
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\OOP\bin\Debug\netcoreapp2.1\OOP.runtimeconfig.dev.json
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\OOP\bin\Debug\netcoreapp2.1\OOP.dll
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\OOP\bin\Debug\netcoreapp2.1\OOP.pdb
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\OOP\obj\Debug\netcoreapp2.1\OOP.dll
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\OOP\obj\Debug\netcoreapp2.1\OOP.pdb
