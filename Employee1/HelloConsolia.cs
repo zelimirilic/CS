@@ -12,15 +12,15 @@ namespace Classes {
             get { return name; }
             set { name = value; }
         }
-        public string Nadimak {get; set;}
-        public string Firma {get; set;}
+        public string Nadimak { get; set; }
+        public string Firma { get; set; }
     }
     class Program {
         static void Main (string[] args) {
             Employee Darko = new Employee ();
             Employee Ivan = new Employee ();
-            Employee Milos = new Employee();
-            Employee Vuk = new Employee();
+            Employee Milos = new Employee ();
+            Employee Vuk = new Employee ();
             Darko.Age = 44;
             Darko.Name = "Darko";
             Darko.Nadimak = "Dare";
