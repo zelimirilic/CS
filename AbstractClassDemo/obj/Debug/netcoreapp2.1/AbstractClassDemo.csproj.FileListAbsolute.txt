@@ -1,0 +1,11 @@
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\AbstractClassDemo\obj\Debug\netcoreapp2.1\AbstractClassDemo.csprojAssemblyReference.cache
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\AbstractClassDemo\obj\Debug\netcoreapp2.1\AbstractClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\AbstractClassDemo\obj\Debug\netcoreapp2.1\AbstractClassDemo.AssemblyInfoInputs.cache
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\AbstractClassDemo\obj\Debug\netcoreapp2.1\AbstractClassDemo.AssemblyInfo.cs
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\AbstractClassDemo\bin\Debug\netcoreapp2.1\AbstractClassDemo.deps.json
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\AbstractClassDemo\bin\Debug\netcoreapp2.1\AbstractClassDemo.runtimeconfig.json
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\AbstractClassDemo\bin\Debug\netcoreapp2.1\AbstractClassDemo.runtimeconfig.dev.json
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\AbstractClassDemo\bin\Debug\netcoreapp2.1\AbstractClassDemo.dll
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\AbstractClassDemo\bin\Debug\netcoreapp2.1\AbstractClassDemo.pdb
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\AbstractClassDemo\obj\Debug\netcoreapp2.1\AbstractClassDemo.dll
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\AbstractClassDemo\obj\Debug\netcoreapp2.1\AbstractClassDemo.pdb

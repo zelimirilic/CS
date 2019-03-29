@@ -1,0 +1,11 @@
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\DelegateDemo\bin\Debug\netcoreapp2.1\DelegateDemo.deps.json
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\DelegateDemo\bin\Debug\netcoreapp2.1\DelegateDemo.runtimeconfig.json
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\DelegateDemo\bin\Debug\netcoreapp2.1\DelegateDemo.runtimeconfig.dev.json
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\DelegateDemo\bin\Debug\netcoreapp2.1\DelegateDemo.dll
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\DelegateDemo\bin\Debug\netcoreapp2.1\DelegateDemo.pdb
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\DelegateDemo\obj\Debug\netcoreapp2.1\DelegateDemo.csprojAssemblyReference.cache
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\DelegateDemo\obj\Debug\netcoreapp2.1\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\DelegateDemo\obj\Debug\netcoreapp2.1\DelegateDemo.AssemblyInfoInputs.cache
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\DelegateDemo\obj\Debug\netcoreapp2.1\DelegateDemo.AssemblyInfo.cs
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\DelegateDemo\obj\Debug\netcoreapp2.1\DelegateDemo.dll
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\DelegateDemo\obj\Debug\netcoreapp2.1\DelegateDemo.pdb

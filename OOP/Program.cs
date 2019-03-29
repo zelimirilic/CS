@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace OOP
 {
@@ -7,8 +11,9 @@ namespace OOP
         static void Main(string[] args)
         {
             
-            Item newItem = Item.GetItem();
-            Console.WriteLine("\nNew item ID = {0}, name = {1}\n", newItem.ID, newItem.Name);
+            List<Item> newItem = Item.GetItems(20);
+            foreach(Item n in newItem)
+            Console.WriteLine("New item ID = {0}, name = {1}", n.ID, n.Name);
         }
 
     

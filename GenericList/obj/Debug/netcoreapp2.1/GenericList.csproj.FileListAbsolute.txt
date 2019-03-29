@@ -1,0 +1,11 @@
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\GenericList\obj\Debug\netcoreapp2.1\GenericList.csprojAssemblyReference.cache
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\GenericList\obj\Debug\netcoreapp2.1\GenericList.csproj.CoreCompileInputs.cache
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\GenericList\obj\Debug\netcoreapp2.1\GenericList.AssemblyInfoInputs.cache
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\GenericList\obj\Debug\netcoreapp2.1\GenericList.AssemblyInfo.cs
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\GenericList\bin\Debug\netcoreapp2.1\GenericList.deps.json
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\GenericList\bin\Debug\netcoreapp2.1\GenericList.runtimeconfig.json
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\GenericList\bin\Debug\netcoreapp2.1\GenericList.runtimeconfig.dev.json
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\GenericList\bin\Debug\netcoreapp2.1\GenericList.dll
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\GenericList\bin\Debug\netcoreapp2.1\GenericList.pdb
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\GenericList\obj\Debug\netcoreapp2.1\GenericList.dll
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\GenericList\obj\Debug\netcoreapp2.1\GenericList.pdb

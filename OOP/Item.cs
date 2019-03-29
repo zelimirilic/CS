@@ -1,3 +1,6 @@
+using System;
+using System.Collections.Generic;
+
 namespace OOP
 {
     class Item
@@ -7,10 +10,17 @@ namespace OOP
         public int ID { get => iD; set => iD = value; }
         public string Name { get; set; }
         
-        public static Item GetItem()
+        public static List<Item> GetItems(int numToGet)
         {
-            var newItem = new Item() {ID = 101, Name = "myItem"};
-            return newItem;
+            var random = new Random();
+            var newList = new List<Item>();
+            Item newItem;
+            for(int i=0; i<numToGet; i++)
+            {
+            newItem = new Item() {ID = random.Next(), Name = "myItem" + i.ToString()};
+            newList.Add(newItem);
+            }
+            return newList;
         }
     }
     class Software : Item

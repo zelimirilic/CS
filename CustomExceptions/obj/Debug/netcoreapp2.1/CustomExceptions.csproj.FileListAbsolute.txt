@@ -1,0 +1,11 @@
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\CustomExceptions\bin\Debug\netcoreapp2.1\CustomExceptions.deps.json
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\CustomExceptions\bin\Debug\netcoreapp2.1\CustomExceptions.runtimeconfig.json
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\CustomExceptions\bin\Debug\netcoreapp2.1\CustomExceptions.runtimeconfig.dev.json
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\CustomExceptions\bin\Debug\netcoreapp2.1\CustomExceptions.dll
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\CustomExceptions\bin\Debug\netcoreapp2.1\CustomExceptions.pdb
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\CustomExceptions\obj\Debug\netcoreapp2.1\CustomExceptions.csprojAssemblyReference.cache
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\CustomExceptions\obj\Debug\netcoreapp2.1\CustomExceptions.csproj.CoreCompileInputs.cache
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\CustomExceptions\obj\Debug\netcoreapp2.1\CustomExceptions.AssemblyInfoInputs.cache
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\CustomExceptions\obj\Debug\netcoreapp2.1\CustomExceptions.AssemblyInfo.cs
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\CustomExceptions\obj\Debug\netcoreapp2.1\CustomExceptions.dll
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\CustomExceptions\obj\Debug\netcoreapp2.1\CustomExceptions.pdb

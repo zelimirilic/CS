@@ -1,0 +1,11 @@
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\InterfaceDemo\obj\Debug\netcoreapp2.1\InterfaceDemo.csprojAssemblyReference.cache
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\InterfaceDemo\obj\Debug\netcoreapp2.1\InterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\InterfaceDemo\obj\Debug\netcoreapp2.1\InterfaceDemo.AssemblyInfoInputs.cache
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\InterfaceDemo\obj\Debug\netcoreapp2.1\InterfaceDemo.AssemblyInfo.cs
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\InterfaceDemo\bin\Debug\netcoreapp2.1\InterfaceDemo.deps.json
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\InterfaceDemo\bin\Debug\netcoreapp2.1\InterfaceDemo.runtimeconfig.json
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\InterfaceDemo\bin\Debug\netcoreapp2.1\InterfaceDemo.runtimeconfig.dev.json
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\InterfaceDemo\bin\Debug\netcoreapp2.1\InterfaceDemo.dll
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\InterfaceDemo\bin\Debug\netcoreapp2.1\InterfaceDemo.pdb
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\InterfaceDemo\obj\Debug\netcoreapp2.1\InterfaceDemo.dll
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\InterfaceDemo\obj\Debug\netcoreapp2.1\InterfaceDemo.pdb

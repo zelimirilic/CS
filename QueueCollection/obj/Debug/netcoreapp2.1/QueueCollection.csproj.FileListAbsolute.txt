@@ -1,0 +1,11 @@
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\QueueCollection\bin\Debug\netcoreapp2.1\QueueCollection.deps.json
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\QueueCollection\bin\Debug\netcoreapp2.1\QueueCollection.runtimeconfig.json
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\QueueCollection\bin\Debug\netcoreapp2.1\QueueCollection.runtimeconfig.dev.json
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\QueueCollection\bin\Debug\netcoreapp2.1\QueueCollection.dll
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\QueueCollection\bin\Debug\netcoreapp2.1\QueueCollection.pdb
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\QueueCollection\obj\Debug\netcoreapp2.1\QueueCollection.csprojAssemblyReference.cache
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\QueueCollection\obj\Debug\netcoreapp2.1\QueueCollection.csproj.CoreCompileInputs.cache
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\QueueCollection\obj\Debug\netcoreapp2.1\QueueCollection.AssemblyInfoInputs.cache
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\QueueCollection\obj\Debug\netcoreapp2.1\QueueCollection.AssemblyInfo.cs
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\QueueCollection\obj\Debug\netcoreapp2.1\QueueCollection.dll
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\QueueCollection\obj\Debug\netcoreapp2.1\QueueCollection.pdb
