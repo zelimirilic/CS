@@ -1,0 +1,11 @@
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\vezba\bin\Debug\netcoreapp2.1\vezba.deps.json
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\vezba\bin\Debug\netcoreapp2.1\vezba.runtimeconfig.json
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\vezba\bin\Debug\netcoreapp2.1\vezba.runtimeconfig.dev.json
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\vezba\bin\Debug\netcoreapp2.1\vezba.dll
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\vezba\bin\Debug\netcoreapp2.1\vezba.pdb
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\vezba\obj\Debug\netcoreapp2.1\vezba.csprojAssemblyReference.cache
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\vezba\obj\Debug\netcoreapp2.1\vezba.csproj.CoreCompileInputs.cache
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\vezba\obj\Debug\netcoreapp2.1\vezba.AssemblyInfoInputs.cache
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\vezba\obj\Debug\netcoreapp2.1\vezba.AssemblyInfo.cs
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\vezba\obj\Debug\netcoreapp2.1\vezba.dll
+C:\Users\zelimir.ilic\Desktop\Zeljko\CS\vezba\obj\Debug\netcoreapp2.1\vezba.pdb
