@@ -46,7 +46,26 @@ namespace vezba {
 
             // Print results
             Console.WriteLine (firstLetter);
-            Console.WriteLine(lastName);
+            Console.WriteLine (lastName);
+            
+            // Random number and text
+            Random rnd = new Random ();
+            int month = rnd.Next (1, 13);
+            Console.WriteLine (month);
+            string someText = "There are also built-in .NET methods that we can use to manipulate text data. Using these methods on a string doesn’t change the string itself, but creates an entirely new one.";
+
+            string newText = "";
+            for (var i = 0; i < someText.Length; i++) {
+            int randNum = rnd.Next (2, 4);
+            if(randNum % 2 == 0) {
+                newText += someText[i];
+            }
+            }
+            
+            Console.WriteLine(newText);
+            Console.WriteLine(someText.Length);
+            Console.WriteLine(newText.Length);
+
         }
     }
 }
