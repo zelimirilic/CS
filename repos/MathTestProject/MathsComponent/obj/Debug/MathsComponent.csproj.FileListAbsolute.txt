@@ -1,0 +1,6 @@
+C:\Users\zelimir.ilic\source\repos\MathTestProject\MathsComponent\bin\Debug\MathsComponent.dll
+C:\Users\zelimir.ilic\source\repos\MathTestProject\MathsComponent\bin\Debug\MathsComponent.pdb
+C:\Users\zelimir.ilic\source\repos\MathTestProject\MathsComponent\obj\Debug\MathsComponent.csprojAssemblyReference.cache
+C:\Users\zelimir.ilic\source\repos\MathTestProject\MathsComponent\obj\Debug\MathsComponent.csproj.CoreCompileInputs.cache
+C:\Users\zelimir.ilic\source\repos\MathTestProject\MathsComponent\obj\Debug\MathsComponent.dll
+C:\Users\zelimir.ilic\source\repos\MathTestProject\MathsComponent\obj\Debug\MathsComponent.pdb

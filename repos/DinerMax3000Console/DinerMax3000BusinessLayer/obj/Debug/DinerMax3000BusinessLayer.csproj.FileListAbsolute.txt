@@ -1,0 +1,6 @@
+C:\Users\zelimir.ilic\source\repos\DinerMax3000Console\DinerMax3000BusinessLayer\bin\Debug\DinerMax3000BusinessLayer.dll
+C:\Users\zelimir.ilic\source\repos\DinerMax3000Console\DinerMax3000BusinessLayer\bin\Debug\DinerMax3000BusinessLayer.pdb
+C:\Users\zelimir.ilic\source\repos\DinerMax3000Console\DinerMax3000BusinessLayer\obj\Debug\DinerMax3000BusinessLayer.csprojAssemblyReference.cache
+C:\Users\zelimir.ilic\source\repos\DinerMax3000Console\DinerMax3000BusinessLayer\obj\Debug\DinerMax3000BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\zelimir.ilic\source\repos\DinerMax3000Console\DinerMax3000BusinessLayer\obj\Debug\DinerMax3000BusinessLayer.dll
+C:\Users\zelimir.ilic\source\repos\DinerMax3000Console\DinerMax3000BusinessLayer\obj\Debug\DinerMax3000BusinessLayer.pdb

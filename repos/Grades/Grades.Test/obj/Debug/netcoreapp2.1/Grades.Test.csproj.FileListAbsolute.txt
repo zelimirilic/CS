@@ -1,0 +1,14 @@
+C:\Users\zelimir.ilic\source\repos\Grades\Grades.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\zelimir.ilic\source\repos\Grades\Grades.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\zelimir.ilic\source\repos\Grades\Grades.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\zelimir.ilic\source\repos\Grades\Grades.Test\bin\Debug\netcoreapp2.1\Grades.Test.deps.json
+C:\Users\zelimir.ilic\source\repos\Grades\Grades.Test\bin\Debug\netcoreapp2.1\Grades.Test.runtimeconfig.json
+C:\Users\zelimir.ilic\source\repos\Grades\Grades.Test\bin\Debug\netcoreapp2.1\Grades.Test.runtimeconfig.dev.json
+C:\Users\zelimir.ilic\source\repos\Grades\Grades.Test\bin\Debug\netcoreapp2.1\Grades.Test.dll
+C:\Users\zelimir.ilic\source\repos\Grades\Grades.Test\bin\Debug\netcoreapp2.1\Grades.Test.pdb
+C:\Users\zelimir.ilic\source\repos\Grades\Grades.Test\obj\Debug\netcoreapp2.1\Grades.Test.csprojAssemblyReference.cache
+C:\Users\zelimir.ilic\source\repos\Grades\Grades.Test\obj\Debug\netcoreapp2.1\Grades.Test.csproj.CoreCompileInputs.cache
+C:\Users\zelimir.ilic\source\repos\Grades\Grades.Test\obj\Debug\netcoreapp2.1\Grades.Test.AssemblyInfoInputs.cache
+C:\Users\zelimir.ilic\source\repos\Grades\Grades.Test\obj\Debug\netcoreapp2.1\Grades.Test.AssemblyInfo.cs
+C:\Users\zelimir.ilic\source\repos\Grades\Grades.Test\obj\Debug\netcoreapp2.1\Grades.Test.dll
+C:\Users\zelimir.ilic\source\repos\Grades\Grades.Test\obj\Debug\netcoreapp2.1\Grades.Test.pdb
