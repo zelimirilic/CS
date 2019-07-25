@@ -3,3 +3,4 @@ C:\Users\zelimir.ilic\source\repos\FizzBuzz\FizzBuzz.Library\bin\Debug\FizzBuzz.
 C:\Users\zelimir.ilic\source\repos\FizzBuzz\FizzBuzz.Library\obj\Debug\FizzBuzz.Library.csproj.CoreCompileInputs.cache
 C:\Users\zelimir.ilic\source\repos\FizzBuzz\FizzBuzz.Library\obj\Debug\FizzBuzz.Library.dll
 C:\Users\zelimir.ilic\source\repos\FizzBuzz\FizzBuzz.Library\obj\Debug\FizzBuzz.Library.pdb
+C:\Users\zelimir.ilic\source\repos\FizzBuzz\FizzBuzz.Library\obj\Debug\FizzBuzz.Library.csprojAssemblyReference.cache
