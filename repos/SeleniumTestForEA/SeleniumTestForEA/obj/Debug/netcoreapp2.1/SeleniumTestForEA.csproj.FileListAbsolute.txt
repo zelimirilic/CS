@@ -1,0 +1,8 @@
+C:\Users\zelimir.ilic\source\repos\SeleniumTestForEA\SeleniumTestForEA\bin\Debug\netcoreapp2.1\SeleniumTestForEA.deps.json
+C:\Users\zelimir.ilic\source\repos\SeleniumTestForEA\SeleniumTestForEA\bin\Debug\netcoreapp2.1\SeleniumTestForEA.dll
+C:\Users\zelimir.ilic\source\repos\SeleniumTestForEA\SeleniumTestForEA\obj\Debug\netcoreapp2.1\SeleniumTestForEA.csproj.CoreCompileInputs.cache
+C:\Users\zelimir.ilic\source\repos\SeleniumTestForEA\SeleniumTestForEA\obj\Debug\netcoreapp2.1\SeleniumTestForEA.AssemblyInfoInputs.cache
+C:\Users\zelimir.ilic\source\repos\SeleniumTestForEA\SeleniumTestForEA\obj\Debug\netcoreapp2.1\SeleniumTestForEA.AssemblyInfo.cs
+C:\Users\zelimir.ilic\source\repos\SeleniumTestForEA\SeleniumTestForEA\bin\Debug\netcoreapp2.1\SeleniumTestForEA.pdb
+C:\Users\zelimir.ilic\source\repos\SeleniumTestForEA\SeleniumTestForEA\obj\Debug\netcoreapp2.1\SeleniumTestForEA.dll
+C:\Users\zelimir.ilic\source\repos\SeleniumTestForEA\SeleniumTestForEA\obj\Debug\netcoreapp2.1\SeleniumTestForEA.pdb
