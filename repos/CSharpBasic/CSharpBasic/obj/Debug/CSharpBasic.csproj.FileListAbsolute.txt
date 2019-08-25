@@ -4,3 +4,10 @@ C:\Users\zelimir.ilic\source\repos\CSharpBasic\CSharpBasic\bin\Debug\CSharpBasic
 C:\Users\zelimir.ilic\source\repos\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.csproj.CoreCompileInputs.cache
 C:\Users\zelimir.ilic\source\repos\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.exe
 C:\Users\zelimir.ilic\source\repos\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.pdb
+C:\Users\Racunar\Desktop\C# materijal\zeljkoGitHub\repos\CSharpBasic\CSharpBasic\bin\Debug\CSharpBasic.exe.config
+C:\Users\Racunar\Desktop\C# materijal\zeljkoGitHub\repos\CSharpBasic\CSharpBasic\bin\Debug\CSharpBasic.exe
+C:\Users\Racunar\Desktop\C# materijal\zeljkoGitHub\repos\CSharpBasic\CSharpBasic\bin\Debug\CSharpBasic.pdb
+C:\Users\Racunar\Desktop\C# materijal\zeljkoGitHub\repos\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.csproj.CoreCompileInputs.cache
+C:\Users\Racunar\Desktop\C# materijal\zeljkoGitHub\repos\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.exe
+C:\Users\Racunar\Desktop\C# materijal\zeljkoGitHub\repos\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.pdb
+C:\Users\Racunar\Desktop\C# materijal\zeljkoGitHub\repos\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.csprojAssemblyReference.cache

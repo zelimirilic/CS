@@ -1,38 +1,56 @@
 using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using CSharpBasic.Browsers;
+using CSharpBasic.Selenium;
+using CSharpBasic.ExstensionMethod;
 
 namespace CSharpBasic
 {
+    enum Browser
+    {
+        Chrome,
+        Firefox,
+        Mozzila,
+        Opera,
+        IE
+    }
     class Program
     {
         public static void Main(string[] args)
         {
 
-            NonGenericCollection();
+            Console.WriteLine(GetBrowserName(Browser.Chrome));    // Strongly type code
 
-            Console.Read();
+            //IWebDriver driver = new Chrome();
+            //driver.SendKeyWithSpecChar("Text about automation testing", "!`~~`!");
+
+            CollectionExample.GenericCollectionWithCustomClass();
+
+            Console.ReadLine();
             
         }
-        public static void ArrayExample()
+        public static string GetBrowserName(Browser browser)
         {
-            string[] testcaseName = new string[] {"UserForm", "Login" }; 
-        }
-        public static void NonGenericCollection()
-        {
-            Hashtable table = new Hashtable();
-            table.Add("UserName", "ab");
-            table.Add("Password", "ab123");
-            table.Add("Button", "Submit");
-            table.Add("Comment", "Ready");
-
-            foreach (var key in table.Keys)
+            if(browser == Browser.Firefox)
             {
-                Console.WriteLine("The value for " + key + " is : " + table[key]);
+                return "Firefox is opened";
+            }
+            else if(browser == Browser.Chrome)
+            {
+                return "Chrome is opened";
+            }
+            else if (browser == Browser.Mozzila)
+            {
+                return "Mozzila is opened";
+            }
+            else if (browser == Browser.Opera)
+            {
+                return "Opera is opened";
+            }
+            else
+            {
+                return "IE is opened";
             }
         }
+        
     }
 }

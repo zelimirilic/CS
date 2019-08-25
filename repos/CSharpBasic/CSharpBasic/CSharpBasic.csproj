@@ -42,6 +42,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Browsers\Chrome.cs" />
+    <Compile Include="Browsers\Firefox.cs" />
+    <Compile Include="Browsers\IE.cs" />
+    <Compile Include="CollectionExample.cs" />
+    <Compile Include="Delegates\DelegateTry.cs" />
+    <Compile Include="ExstensionMethod\WebDriverExtension.cs" />
+    <Compile Include="Selenium\IWebDriver.cs" />
     <Compile Include="TestClass1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
