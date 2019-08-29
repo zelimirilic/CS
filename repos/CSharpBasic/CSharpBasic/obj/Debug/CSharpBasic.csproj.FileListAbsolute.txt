@@ -11,3 +11,4 @@ C:\Users\Racunar\Desktop\C# materijal\zeljkoGitHub\repos\CSharpBasic\CSharpBasic
 C:\Users\Racunar\Desktop\C# materijal\zeljkoGitHub\repos\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.exe
 C:\Users\Racunar\Desktop\C# materijal\zeljkoGitHub\repos\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.pdb
 C:\Users\Racunar\Desktop\C# materijal\zeljkoGitHub\repos\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.csprojAssemblyReference.cache
+C:\Users\zelimir.ilic\source\repos\CSharpBasic\CSharpBasic\obj\Debug\CSharpBasic.csprojAssemblyReference.cache
