@@ -1,0 +1,12 @@
+C:\Users\zelimir.ilic\source\repos\LoanApp-TestingWithNUnit\Loans\bin\Debug\netcoreapp2.1\Loans.deps.json
+C:\Users\zelimir.ilic\source\repos\LoanApp-TestingWithNUnit\Loans\bin\Debug\netcoreapp2.1\Loans.dll
+C:\Users\zelimir.ilic\source\repos\LoanApp-TestingWithNUnit\Loans\bin\Debug\netcoreapp2.1\Loans.pdb
+C:\Users\zelimir.ilic\source\repos\LoanApp-TestingWithNUnit\Loans\obj\Debug\netcoreapp2.1\Loans.csproj.CoreCompileInputs.cache
+C:\Users\zelimir.ilic\source\repos\LoanApp-TestingWithNUnit\Loans\obj\Debug\netcoreapp2.1\Loans.AssemblyInfoInputs.cache
+C:\Users\zelimir.ilic\source\repos\LoanApp-TestingWithNUnit\Loans\obj\Debug\netcoreapp2.1\Loans.AssemblyInfo.cs
+C:\Users\zelimir.ilic\source\repos\LoanApp-TestingWithNUnit\Loans\obj\Debug\netcoreapp2.1\Loans.dll
+C:\Users\zelimir.ilic\source\repos\LoanApp-TestingWithNUnit\Loans\obj\Debug\netcoreapp2.1\Loans.pdb
+C:\Users\zelimir.ilic\source\repos\LoanApp-TestingWithNUnit\Loans\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\zelimir.ilic\source\repos\LoanApp-TestingWithNUnit\Loans\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\zelimir.ilic\source\repos\LoanApp-TestingWithNUnit\Loans\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\zelimir.ilic\source\repos\LoanApp-TestingWithNUnit\Loans\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
