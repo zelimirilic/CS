@@ -1,0 +1,17 @@
+C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll
+C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.pdb
+C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\obj\Debug\MaineClasseTest.csprojAssemblyReference.cache
+C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\obj\Debug\MaineClasseTest.csproj.CoreCompileInputs.cache
+C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\obj\Debug\MaineClasseTest.csproj.CopyComplete
+C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\obj\Debug\MaineClasseTest.dll
+C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\obj\Debug\MaineClasseTest.pdb
+C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasse.dll
+C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasse.pdb
+C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll.config

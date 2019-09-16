@@ -1,0 +1,6 @@
+C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasse\bin\Debug\MaineClasse.dll
+C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasse\bin\Debug\MaineClasse.pdb
+C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasse\obj\Debug\MaineClasse.csprojAssemblyReference.cache
+C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasse\obj\Debug\MaineClasse.csproj.CoreCompileInputs.cache
+C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasse\obj\Debug\MaineClasse.dll
+C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasse\obj\Debug\MaineClasse.pdb
