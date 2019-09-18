@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="504be54d-f441-404a-9c77-4baf55916345" name="zelimir.ilic@SRB-BGD-D-023 2019-09-18 12:41:06" runUser="HALMSTAD\zelimir.ilic" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2019-09-18T12:41:06.2570332+02:00" queuing="2019-09-18T12:41:06.2570332+02:00" start="2019-09-18T12:41:05.4817924+02:00" finish="2019-09-18T12:41:10.5476210+02:00" />
+  <TestSettings name="default" id="ce5549f4-1b69-4325-b0bf-ab2e23b0b44a">
+    <Deployment runDeploymentRoot="zelimir.ilic_SRB-BGD-D-023_2019-09-18_12_41_06" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="a36aeeaa-daec-4e89-b539-d7e67be81d65" testId="193c00b9-c970-6094-cbb7-5585eea18e24" testName="FileExistsTestFromDB" computerName="SRB-BGD-D-023" duration="00:00:00.0208098" startTime="2019-09-18T12:41:06.2520495+02:00" endTime="2019-09-18T12:41:06.3005617+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a36aeeaa-daec-4e89-b539-d7e67be81d65" resultType="DataDrivenTest">
+      <Output>
+        <StdOut>TestContext Messages:
+In the class Initialize</StdOut>
+      </Output>
+      <InnerResults>
+        <UnitTestResult executionId="dd91fd0e-828c-4087-baa6-7e3ac46db0df" parentExecutionId="a36aeeaa-daec-4e89-b539-d7e67be81d65" testId="193c00b9-c970-6094-cbb7-5585eea18e24" testName="FileExistsTestFromDB" computerName="SRB-BGD-D-023" duration="00:00:00.0207954" startTime="2019-09-18T12:41:06.2520495+02:00" endTime="2019-09-18T12:41:06.3005617+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dd91fd0e-828c-4087-baa6-7e3ac46db0df" dataRowInfo="1" resultType="DataDrivenDataRow">
+          <Output>
+            <ErrorInfo>
+              <Message>The type initializer for 'Microsoft.VisualStudio.TestTools.UnitTesting.TestConfiguration' threw an exception.</Message>
+              <StackTrace>   at Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.TestDataSource.GetData(ITestMethod testMethodInfo, ITestContext testContext)&#xD;
+</StackTrace>
+            </ErrorInfo>
+          </Output>
+        </UnitTestResult>
+      </InnerResults>
+    </UnitTestResult>
+    <UnitTestResult executionId="159d30c2-d321-40e5-94e5-68c2c516afc4" testId="57f681c0-a7d3-6f57-842a-19e601d1ee04" testName="FileNameDoesExistUsingDeploymentItem" computerName="SRB-BGD-D-023" duration="00:00:00.0007194" startTime="2019-09-18T12:41:06.3045591+02:00" endTime="2019-09-18T12:41:06.3045963+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="159d30c2-d321-40e5-94e5-68c2c516afc4">
+      <Output>
+        <StdOut>TestContext Messages:
+Checking file: C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\TestResults\Deploy_zelimir.ilic 2019-09-18 12_41_05\Out\FileforDeploy.txt</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a6955ad8-9414-4b6d-bb29-c1c99050d482" testId="54fcaba7-784f-d564-444c-d27eeeb0c471" testName="IsCollectionOfTypeTest" computerName="SRB-BGD-D-023" duration="00:00:00.0007919" startTime="2019-09-18T12:41:06.2510370+02:00" endTime="2019-09-18T12:41:06.2520495+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a6955ad8-9414-4b6d-bb29-c1c99050d482" />
+    <UnitTestResult executionId="69badcd4-4b23-45d8-986c-b50611bda271" testId="28db808a-7692-542b-aa17-a349dccd93f3" testName="FileNameDoesNotExist" computerName="SRB-BGD-D-023" duration="00:00:00.0004362" startTime="2019-09-18T12:41:10.3607758+02:00" endTime="2019-09-18T12:41:10.3617758+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="69badcd4-4b23-45d8-986c-b50611bda271" />
+    <UnitTestResult executionId="93c253e9-fd14-442d-83f0-22fd2c0205a5" testId="0fac8706-e477-4767-d866-c2b7a938f51c" testName="CreatePerson_OfTypeEmployeeTest" computerName="SRB-BGD-D-023" duration="00:00:00.0003880" startTime="2019-09-18T12:41:10.3637744+02:00" endTime="2019-09-18T12:41:10.3647741+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="93c253e9-fd14-442d-83f0-22fd2c0205a5" />
+    <UnitTestResult executionId="d57a2fb5-82f9-4b5a-a0d9-57d1eaff30c4" testId="3d22d60d-6362-49be-e7a4-0b0e14c14772" testName="FileNameNullOrEmpty_ThrowArgNullEx2" computerName="SRB-BGD-D-023" duration="00:00:00.0003014" startTime="2019-09-18T12:41:10.3627743+02:00" endTime="2019-09-18T12:41:10.3637744+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d57a2fb5-82f9-4b5a-a0d9-57d1eaff30c4" />
+    <UnitTestResult executionId="d0271134-a2ca-4641-bd7a-a2d27362d9c9" testId="b1659842-4f0e-9cd8-0c9a-23dc6ec53559" testName="FileNameDoesNotExistSimpleMessage" computerName="SRB-BGD-D-023" duration="00:00:00.0471031" startTime="2019-09-18T12:41:10.3096124+02:00" endTime="2019-09-18T12:41:10.3587731+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d0271134-a2ca-4641-bd7a-a2d27362d9c9">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method MaineClasseTest.FileProccesTest.FileNameDoesNotExistSimpleMessage threw exception: &#xD;
+System.ArgumentNullException: Value cannot be null.&#xD;
+Parameter name: fileName</Message>
+          <StackTrace>    at MaineClasse.FileProcess.FileExists(String fileName) in C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasse\FileProcess.cs:line 15&#xD;
+   at MaineClasseTest.FileProccesTest.FileNameDoesNotExistSimpleMessage() in C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\FileProccesTest.cs:line 143&#xD;
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="e3afe6f9-226a-4513-8826-d8942da156d6" testId="dbfaaf49-64cf-f77b-01c3-138e3b892023" testName="IsNullTest" computerName="SRB-BGD-D-023" duration="00:00:00.0001491" startTime="2019-09-18T12:41:06.2220668+02:00" endTime="2019-09-18T12:41:06.2220668+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e3afe6f9-226a-4513-8826-d8942da156d6" />
+    <UnitTestResult executionId="aa6d9923-1c30-43d2-bed7-7225c21f0b2f" testId="17e35a5c-9a84-f615-cbd4-f7efa5977d6d" testName="AreEqualTest" computerName="SRB-BGD-D-023" duration="00:00:00.0006078" startTime="2019-09-18T12:41:06.2220668+02:00" endTime="2019-09-18T12:41:06.2230659+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="aa6d9923-1c30-43d2-bed7-7225c21f0b2f" />
+    <UnitTestResult executionId="b705ce49-fe0b-4129-9210-a9572fc10a5a" testId="22ddf236-74f3-5246-f25e-a4f26902a74e" testName="AreNotEqualTest" computerName="SRB-BGD-D-023" duration="00:00:00.0004060" startTime="2019-09-18T12:41:06.2400433+02:00" endTime="2019-09-18T12:41:06.2410427+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b705ce49-fe0b-4129-9210-a9572fc10a5a" />
+    <UnitTestResult executionId="30bf7c28-12c0-4ae3-ab3d-bac616e256c2" testId="d4746547-5fb8-0293-7a25-d919091bdcde" testName="AreCollectionsEqualWithComparerTest" computerName="SRB-BGD-D-023" duration="00:00:00.0024619" startTime="2019-09-18T12:41:06.2440410+02:00" endTime="2019-09-18T12:41:06.2470393+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="30bf7c28-12c0-4ae3-ab3d-bac616e256c2" />
+    <UnitTestResult executionId="875a5a90-3dda-4764-875a-bf4bcc2cb7d0" testId="78ccbac0-3c85-09da-6d38-c06f016277a5" testName="AreEqualCaseSensitiveTest" computerName="SRB-BGD-D-023" duration="00:00:00.0166582" startTime="2019-09-18T12:41:06.2230659+02:00" endTime="2019-09-18T12:41:06.2400433+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="875a5a90-3dda-4764-875a-bf4bcc2cb7d0" />
+    <UnitTestResult executionId="bbd96d36-f11f-4073-a8c0-a715bd53cc54" testId="9ff2d65a-90f2-e838-3a1b-3efd6e3f3b9b" testName="IsAllLowerCaseTest" computerName="SRB-BGD-D-023" duration="00:00:00.0053771" startTime="2019-09-18T12:41:10.3667726+02:00" endTime="2019-09-18T12:41:10.3727685+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bbd96d36-f11f-4073-a8c0-a715bd53cc54">
+      <Output>
+        <ErrorInfo>
+          <Message>StringAssert.Matches failed. String 'all LOWER case He wrote...' does not match pattern '^([^A-Z])+$'. .</Message>
+          <StackTrace>   at MaineClasseTest.StringAssertClassTest.IsAllLowerCaseTest() in C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\StringAssertClassTest.cs:line 38&#xD;
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="45a311ec-7643-4224-9942-d35bcd9397f6" testId="0d3136d2-0fc9-1ccb-f4c1-222195bc1408" testName="AreSameTest" computerName="SRB-BGD-D-023" duration="00:00:00.0003233" startTime="2019-09-18T12:41:06.2410427+02:00" endTime="2019-09-18T12:41:06.2410427+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="45a311ec-7643-4224-9942-d35bcd9397f6" />
+    <UnitTestResult executionId="43fea771-e023-452a-b1a6-372e06829c25" testId="aebcf4c7-28fd-9172-4325-a47827dc7778" testName="IsNotAllLowerCaseTest" computerName="SRB-BGD-D-023" duration="00:00:00.0006988" startTime="2019-09-18T12:41:10.3727685+02:00" endTime="2019-09-18T12:41:10.3737686+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="43fea771-e023-452a-b1a6-372e06829c25" />
+    <UnitTestResult executionId="b312a537-26b3-4c8f-9106-d1a3de4fc4ec" testId="51f5c6b5-9347-a2a3-004d-21ef571a5929" testName="SimulateTimeout" computerName="SRB-BGD-D-023" duration="00:00:04.0032866" startTime="2019-09-18T12:41:06.3045963+02:00" endTime="2019-09-18T12:41:10.3096124+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b312a537-26b3-4c8f-9106-d1a3de4fc4ec" />
+    <UnitTestResult executionId="c6c5fda7-0dc3-467f-94fe-df318a65ec0e" testId="fa6c64d5-fbd8-90d8-4c57-6fea866a31c0" testName="FileNameDoesNotExistMessageWithFormating" computerName="SRB-BGD-D-023" duration="00:00:00.0015591" startTime="2019-09-18T12:41:10.3587731+02:00" endTime="2019-09-18T12:41:10.3607758+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c6c5fda7-0dc3-467f-94fe-df318a65ec0e">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method MaineClasseTest.FileProccesTest.FileNameDoesNotExistMessageWithFormating threw exception: &#xD;
+System.ArgumentNullException: Value cannot be null.&#xD;
+Parameter name: fileName</Message>
+          <StackTrace>    at MaineClasse.FileProcess.FileExists(String fileName) in C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasse\FileProcess.cs:line 15&#xD;
+   at MaineClasseTest.FileProccesTest.FileNameDoesNotExistMessageWithFormating() in C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\FileProccesTest.cs:line 153&#xD;
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b6099498-27d6-4f5e-8e84-fdc9cefc5857" testId="51bbc20f-2522-adfb-f430-117a9eeb06c7" testName="IsInstanceOfTypeTest" computerName="SRB-BGD-D-023" duration="00:00:00.0088325" startTime="2019-09-18T12:41:06.1535594+02:00" endTime="2019-09-18T12:41:06.2086583+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b6099498-27d6-4f5e-8e84-fdc9cefc5857">
+      <Output>
+        <StdOut>TestContext Messages:
+In the Assembly Initialize Method</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="2c006249-2b24-401b-8582-cc5aba53596e" testId="475502dd-574c-085f-6ce0-0fc18ccaeeeb" testName="FileNameDoesExist" computerName="SRB-BGD-D-023" duration="00:00:00.0024209" startTime="2019-09-18T12:41:06.3005617+02:00" endTime="2019-09-18T12:41:06.3035594+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2c006249-2b24-401b-8582-cc5aba53596e">
+      <Output>
+        <StdOut>TestContext Messages:
+Testing the file: C:\Users\zelimir.ilic\AppData\Roaming\Test.File.txt</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a21b618a-a377-441e-bfb5-b3a5ba7832a9" testId="7fb81be5-8760-e730-1549-d1b6c7ea286a" testName="AreNotSameTest" computerName="SRB-BGD-D-023" duration="00:00:00.0001250" startTime="2019-09-18T12:41:06.2410427+02:00" endTime="2019-09-18T12:41:06.2410427+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a21b618a-a377-441e-bfb5-b3a5ba7832a9" />
+    <UnitTestResult executionId="d6e750ef-2215-4046-96af-f1cf7b738407" testId="b57509f3-14cc-b2cd-1d03-33c10a775413" testName="FileNameNullOrEmpty_ThrowArgNullEx" computerName="SRB-BGD-D-023" duration="00:00:00.0010436" startTime="2019-09-18T12:41:10.3617758+02:00" endTime="2019-09-18T12:41:10.3627743+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d6e750ef-2215-4046-96af-f1cf7b738407" />
+    <UnitTestResult executionId="e70e8585-114b-4a7e-b209-6375a45e3766" testId="afdd3b6c-fc8d-f2be-ca10-41987b538d6d" testName="ContainsTest" computerName="SRB-BGD-D-023" duration="00:00:00.0007996" startTime="2019-09-18T12:41:10.3647741+02:00" endTime="2019-09-18T12:41:10.3657726+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e70e8585-114b-4a7e-b209-6375a45e3766" />
+    <UnitTestResult executionId="8f708f2c-c844-4a02-a1dd-203283cf90e8" testId="c56e8539-6a05-0f6b-1af1-98ee608452af" testName="AreCollectionsEquivalentTest" computerName="SRB-BGD-D-023" duration="00:00:00.0023038" startTime="2019-09-18T12:41:06.2410427+02:00" endTime="2019-09-18T12:41:06.2440410+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8f708f2c-c844-4a02-a1dd-203283cf90e8" />
+    <UnitTestResult executionId="8fa557dd-c57f-4557-b253-9d0fcefa7aaa" testId="ab3bdd1d-a4f7-5232-4bc6-afc263bab0da" testName="StartWithTest" computerName="SRB-BGD-D-023" duration="00:00:00.0005744" startTime="2019-09-18T12:41:10.3657726+02:00" endTime="2019-09-18T12:41:10.3667726+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8fa557dd-c57f-4557-b253-9d0fcefa7aaa" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="AreCollectionsEquivalentTest" storage="c:\users\zelimir.ilic\source\repos\maineclasse\maineclassetest\bin\debug\maineclassetest.dll" id="c56e8539-6a05-0f6b-1af1-98ee608452af">
+      <Owners>
+        <Owner name="Johnjik" />
+      </Owners>
+      <Execution id="8f708f2c-c844-4a02-a1dd-203283cf90e8" />
+      <TestMethod codeBase="C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MaineClasseTest.CollectionsAssertClassTest" name="AreCollectionsEquivalentTest" />
+    </UnitTest>
+    <UnitTest name="AreNotEqualTest" storage="c:\users\zelimir.ilic\source\repos\maineclasse\maineclassetest\bin\debug\maineclassetest.dll" id="22ddf236-74f3-5246-f25e-a4f26902a74e">
+      <Owners>
+        <Owner name="Zeks" />
+      </Owners>
+      <Execution id="b705ce49-fe0b-4129-9210-a9572fc10a5a" />
+      <TestMethod codeBase="C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MaineClasseTest.AssertClassTest" name="AreNotEqualTest" />
+    </UnitTest>
+    <UnitTest name="AreEqualCaseSensitiveTest" storage="c:\users\zelimir.ilic\source\repos\maineclasse\maineclassetest\bin\debug\maineclassetest.dll" id="78ccbac0-3c85-09da-6d38-c06f016277a5">
+      <Owners>
+        <Owner name="Zeljko" />
+      </Owners>
+      <Execution id="875a5a90-3dda-4764-875a-bf4bcc2cb7d0" />
+      <TestMethod codeBase="C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MaineClasseTest.AssertClassTest" name="AreEqualCaseSensitiveTest" />
+    </UnitTest>
+    <UnitTest name="AreEqualTest" storage="c:\users\zelimir.ilic\source\repos\maineclasse\maineclassetest\bin\debug\maineclassetest.dll" id="17e35a5c-9a84-f615-cbd4-f7efa5977d6d">
+      <Owners>
+        <Owner name="Zelko" />
+      </Owners>
+      <Execution id="aa6d9923-1c30-43d2-bed7-7225c21f0b2f" />
+      <TestMethod codeBase="C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MaineClasseTest.AssertClassTest" name="AreEqualTest" />
+    </UnitTest>
+    <UnitTest name="FileNameDoesNotExistSimpleMessage" storage="c:\users\zelimir.ilic\source\repos\maineclasse\maineclassetest\bin\debug\maineclassetest.dll" id="b1659842-4f0e-9cd8-0c9a-23dc6ec53559">
+      <Execution id="d0271134-a2ca-4641-bd7a-a2d27362d9c9" />
+      <TestMethod codeBase="C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MaineClasseTest.FileProccesTest" name="FileNameDoesNotExistSimpleMessage" />
+    </UnitTest>
+    <UnitTest name="FileNameNullOrEmpty_ThrowArgNullEx2" storage="c:\users\zelimir.ilic\source\repos\maineclasse\maineclassetest\bin\debug\maineclassetest.dll" id="3d22d60d-6362-49be-e7a4-0b0e14c14772">
+      <Execution id="d57a2fb5-82f9-4b5a-a0d9-57d1eaff30c4" />
+      <TestMethod codeBase="C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MaineClasseTest.FileProccesTest" name="FileNameNullOrEmpty_ThrowArgNullEx2" />
+    </UnitTest>
+    <UnitTest name="AreNotSameTest" storage="c:\users\zelimir.ilic\source\repos\maineclasse\maineclassetest\bin\debug\maineclassetest.dll" id="7fb81be5-8760-e730-1549-d1b6c7ea286a">
+      <Owners>
+        <Owner name="JohnK" />
+      </Owners>
+      <Execution id="a21b618a-a377-441e-bfb5-b3a5ba7832a9" />
+      <TestMethod codeBase="C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MaineClasseTest.AssertClassTest" name="AreNotSameTest" />
+    </UnitTest>
+    <UnitTest name="IsInstanceOfTypeTest" storage="c:\users\zelimir.ilic\source\repos\maineclasse\maineclassetest\bin\debug\maineclassetest.dll" id="51bbc20f-2522-adfb-f430-117a9eeb06c7">
+      <Owners>
+        <Owner name="ZeljkoIlic" />
+      </Owners>
+      <Execution id="b6099498-27d6-4f5e-8e84-fdc9cefc5857" />
+      <TestMethod codeBase="C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MaineClasseTest.AssertClassTest" name="IsInstanceOfTypeTest" />
+    </UnitTest>
+    <UnitTest name="IsAllLowerCaseTest" storage="c:\users\zelimir.ilic\source\repos\maineclasse\maineclassetest\bin\debug\maineclassetest.dll" id="9ff2d65a-90f2-e838-3a1b-3efd6e3f3b9b">
+      <Owners>
+        <Owner name="Regularija" />
+      </Owners>
+      <Execution id="bbd96d36-f11f-4073-a8c0-a715bd53cc54" />
+      <TestMethod codeBase="C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MaineClasseTest.StringAssertClassTest" name="IsAllLowerCaseTest" />
+    </UnitTest>
+    <UnitTest name="AreCollectionsEqualWithComparerTest" storage="c:\users\zelimir.ilic\source\repos\maineclasse\maineclassetest\bin\debug\maineclassetest.dll" id="d4746547-5fb8-0293-7a25-d919091bdcde">
+      <Owners>
+        <Owner name="Konjurak" />
+      </Owners>
+      <Execution id="30bf7c28-12c0-4ae3-ab3d-bac616e256c2" />
+      <TestMethod codeBase="C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MaineClasseTest.CollectionsAssertClassTest" name="AreCollectionsEqualWithComparerTest" />
+    </UnitTest>
+    <UnitTest name="IsNullTest" storage="c:\users\zelimir.ilic\source\repos\maineclasse\maineclassetest\bin\debug\maineclassetest.dll" id="dbfaaf49-64cf-f77b-01c3-138e3b892023">
+      <Owners>
+        <Owner name="ZeljkoIlicBgd" />
+      </Owners>
+      <Execution id="e3afe6f9-226a-4513-8826-d8942da156d6" />
+      <TestMethod codeBase="C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MaineClasseTest.AssertClassTest" name="IsNullTest" />
+    </UnitTest>
+    <UnitTest name="IsNotAllLowerCaseTest" storage="c:\users\zelimir.ilic\source\repos\maineclasse\maineclassetest\bin\debug\maineclassetest.dll" id="aebcf4c7-28fd-9172-4325-a47827dc7778">
+      <Owners>
+        <Owner name="Regularija" />
+      </Owners>
+      <Execution id="43fea771-e023-452a-b1a6-372e06829c25" />
+      <TestMethod codeBase="C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MaineClasseTest.StringAssertClassTest" name="IsNotAllLowerCaseTest" />
+    </UnitTest>
+    <UnitTest name="SimulateTimeout" storage="c:\users\zelimir.ilic\source\repos\maineclasse\maineclassetest\bin\debug\maineclassetest.dll" id="51f5c6b5-9347-a2a3-004d-21ef571a5929">
+      <Execution id="b312a537-26b3-4c8f-9106-d1a3de4fc4ec" />
+      <TestMethod codeBase="C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MaineClasseTest.FileProccesTest" name="SimulateTimeout" />
+    </UnitTest>
+    <UnitTest name="StartWithTest" storage="c:\users\zelimir.ilic\source\repos\maineclasse\maineclassetest\bin\debug\maineclassetest.dll" id="ab3bdd1d-a4f7-5232-4bc6-afc263bab0da">
+      <Owners>
+        <Owner name="Zelimir" />
+      </Owners>
+      <Execution id="8fa557dd-c57f-4557-b253-9d0fcefa7aaa" />
+      <TestMethod codeBase="C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MaineClasseTest.StringAssertClassTest" name="StartWithTest" />
+    </UnitTest>
+    <UnitTest name="ContainsTest" storage="c:\users\zelimir.ilic\source\repos\maineclasse\maineclassetest\bin\debug\maineclassetest.dll" id="afdd3b6c-fc8d-f2be-ca10-41987b538d6d">
+      <Owners>
+        <Owner name="Zelimir" />
+      </Owners>
+      <Execution id="e70e8585-114b-4a7e-b209-6375a45e3766" />
+      <TestMethod codeBase="C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MaineClasseTest.StringAssertClassTest" name="ContainsTest" />
+    </UnitTest>
+    <UnitTest name="FileExistsTestFromDB" storage="c:\users\zelimir.ilic\source\repos\maineclasse\maineclassetest\bin\debug\maineclassetest.dll" id="193c00b9-c970-6094-cbb7-5585eea18e24">
+      <Execution id="a36aeeaa-daec-4e89-b539-d7e67be81d65" />
+      <TestMethod codeBase="C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MaineClasseTest.FileProccesTest" name="FileExistsTestFromDB" />
+    </UnitTest>
+    <UnitTest name="FileNameDoesNotExist" storage="c:\users\zelimir.ilic\source\repos\maineclasse\maineclassetest\bin\debug\maineclassetest.dll" id="28db808a-7692-542b-aa17-a349dccd93f3">
+      <Owners>
+        <Owner name="Zdravko" />
+      </Owners>
+      <Execution id="69badcd4-4b23-45d8-986c-b50611bda271" />
+      <TestMethod codeBase="C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MaineClasseTest.FileProccesTest" name="FileNameDoesNotExist" />
+    </UnitTest>
+    <UnitTest name="FileNameDoesExist" storage="c:\users\zelimir.ilic\source\repos\maineclasse\maineclassetest\bin\debug\maineclassetest.dll" id="475502dd-574c-085f-6ce0-0fc18ccaeeeb">
+      <Owners>
+        <Owner name="Zeljko" />
+      </Owners>
+      <Execution id="2c006249-2b24-401b-8582-cc5aba53596e" />
+      <TestMethod codeBase="C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MaineClasseTest.FileProccesTest" name="FileNameDoesExist" />
+    </UnitTest>
+    <UnitTest name="FileNameDoesExistUsingDeploymentItem" storage="c:\users\zelimir.ilic\source\repos\maineclasse\maineclassetest\bin\debug\maineclassetest.dll" id="57f681c0-a7d3-6f57-842a-19e601d1ee04">
+      <Owners>
+        <Owner name="Zeks" />
+      </Owners>
+      <Execution id="159d30c2-d321-40e5-94e5-68c2c516afc4" />
+      <TestMethod codeBase="C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MaineClasseTest.FileProccesTest" name="FileNameDoesExistUsingDeploymentItem" />
+    </UnitTest>
+    <UnitTest name="IsCollectionOfTypeTest" storage="c:\users\zelimir.ilic\source\repos\maineclasse\maineclassetest\bin\debug\maineclassetest.dll" id="54fcaba7-784f-d564-444c-d27eeeb0c471">
+      <Owners>
+        <Owner name="Sultan Murat" />
+      </Owners>
+      <Execution id="a6955ad8-9414-4b6d-bb29-c1c99050d482" />
+      <TestMethod codeBase="C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MaineClasseTest.CollectionsAssertClassTest" name="IsCollectionOfTypeTest" />
+    </UnitTest>
+    <UnitTest name="CreatePerson_OfTypeEmployeeTest" storage="c:\users\zelimir.ilic\source\repos\maineclasse\maineclassetest\bin\debug\maineclassetest.dll" id="0fac8706-e477-4767-d866-c2b7a938f51c">
+      <Execution id="93c253e9-fd14-442d-83f0-22fd2c0205a5" />
+      <TestMethod codeBase="C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MaineClasseTest.PersonManagerTest" name="CreatePerson_OfTypeEmployeeTest" />
+    </UnitTest>
+    <UnitTest name="AreSameTest" storage="c:\users\zelimir.ilic\source\repos\maineclasse\maineclassetest\bin\debug\maineclassetest.dll" id="0d3136d2-0fc9-1ccb-f4c1-222195bc1408">
+      <Owners>
+        <Owner name="PaulS" />
+      </Owners>
+      <Execution id="45a311ec-7643-4224-9942-d35bcd9397f6" />
+      <TestMethod codeBase="C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MaineClasseTest.AssertClassTest" name="AreSameTest" />
+    </UnitTest>
+    <UnitTest name="FileNameNullOrEmpty_ThrowArgNullEx" storage="c:\users\zelimir.ilic\source\repos\maineclasse\maineclassetest\bin\debug\maineclassetest.dll" id="b57509f3-14cc-b2cd-1d03-33c10a775413">
+      <Owners>
+        <Owner name="Pera" />
+      </Owners>
+      <Execution id="d6e750ef-2215-4046-96af-f1cf7b738407" />
+      <TestMethod codeBase="C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MaineClasseTest.FileProccesTest" name="FileNameNullOrEmpty_ThrowArgNullEx" />
+    </UnitTest>
+    <UnitTest name="FileNameDoesNotExistMessageWithFormating" storage="c:\users\zelimir.ilic\source\repos\maineclasse\maineclassetest\bin\debug\maineclassetest.dll" id="fa6c64d5-fbd8-90d8-4c57-6fea866a31c0">
+      <Execution id="c6c5fda7-0dc3-467f-94fe-df318a65ec0e" />
+      <TestMethod codeBase="C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll" adapterTypeName="executor://mstestadapter/v2" className="MaineClasseTest.FileProccesTest" name="FileNameDoesNotExistMessageWithFormating" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="193c00b9-c970-6094-cbb7-5585eea18e24" executionId="a36aeeaa-daec-4e89-b539-d7e67be81d65" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="57f681c0-a7d3-6f57-842a-19e601d1ee04" executionId="159d30c2-d321-40e5-94e5-68c2c516afc4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="54fcaba7-784f-d564-444c-d27eeeb0c471" executionId="a6955ad8-9414-4b6d-bb29-c1c99050d482" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="28db808a-7692-542b-aa17-a349dccd93f3" executionId="69badcd4-4b23-45d8-986c-b50611bda271" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0fac8706-e477-4767-d866-c2b7a938f51c" executionId="93c253e9-fd14-442d-83f0-22fd2c0205a5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3d22d60d-6362-49be-e7a4-0b0e14c14772" executionId="d57a2fb5-82f9-4b5a-a0d9-57d1eaff30c4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b1659842-4f0e-9cd8-0c9a-23dc6ec53559" executionId="d0271134-a2ca-4641-bd7a-a2d27362d9c9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="dbfaaf49-64cf-f77b-01c3-138e3b892023" executionId="e3afe6f9-226a-4513-8826-d8942da156d6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="17e35a5c-9a84-f615-cbd4-f7efa5977d6d" executionId="aa6d9923-1c30-43d2-bed7-7225c21f0b2f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="22ddf236-74f3-5246-f25e-a4f26902a74e" executionId="b705ce49-fe0b-4129-9210-a9572fc10a5a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d4746547-5fb8-0293-7a25-d919091bdcde" executionId="30bf7c28-12c0-4ae3-ab3d-bac616e256c2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="78ccbac0-3c85-09da-6d38-c06f016277a5" executionId="875a5a90-3dda-4764-875a-bf4bcc2cb7d0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9ff2d65a-90f2-e838-3a1b-3efd6e3f3b9b" executionId="bbd96d36-f11f-4073-a8c0-a715bd53cc54" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0d3136d2-0fc9-1ccb-f4c1-222195bc1408" executionId="45a311ec-7643-4224-9942-d35bcd9397f6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="aebcf4c7-28fd-9172-4325-a47827dc7778" executionId="43fea771-e023-452a-b1a6-372e06829c25" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="51f5c6b5-9347-a2a3-004d-21ef571a5929" executionId="b312a537-26b3-4c8f-9106-d1a3de4fc4ec" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fa6c64d5-fbd8-90d8-4c57-6fea866a31c0" executionId="c6c5fda7-0dc3-467f-94fe-df318a65ec0e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="51bbc20f-2522-adfb-f430-117a9eeb06c7" executionId="b6099498-27d6-4f5e-8e84-fdc9cefc5857" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="475502dd-574c-085f-6ce0-0fc18ccaeeeb" executionId="2c006249-2b24-401b-8582-cc5aba53596e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7fb81be5-8760-e730-1549-d1b6c7ea286a" executionId="a21b618a-a377-441e-bfb5-b3a5ba7832a9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b57509f3-14cc-b2cd-1d03-33c10a775413" executionId="d6e750ef-2215-4046-96af-f1cf7b738407" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="afdd3b6c-fc8d-f2be-ca10-41987b538d6d" executionId="e70e8585-114b-4a7e-b209-6375a45e3766" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c56e8539-6a05-0f6b-1af1-98ee608452af" executionId="8f708f2c-c844-4a02-a1dd-203283cf90e8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ab3bdd1d-a4f7-5232-4bc6-afc263bab0da" executionId="8fa557dd-c57f-4557-b253-9d0fcefa7aaa" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Failed">
+    <Counters total="25" executed="25" passed="20" failed="5" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>

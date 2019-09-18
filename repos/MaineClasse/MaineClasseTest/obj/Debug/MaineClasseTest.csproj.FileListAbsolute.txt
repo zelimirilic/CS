@@ -15,3 +15,4 @@ C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\obj\Debug\MaineCl
 C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasse.dll
 C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasse.pdb
 C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\MaineClasseTest.dll.config
+C:\Users\zelimir.ilic\source\repos\MaineClasse\MaineClasseTest\bin\Debug\FileForDeploy.txt
