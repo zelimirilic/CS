@@ -15,3 +15,4 @@ C:\Users\zelimir.ilic\source\repos\POMExample\POMExample\obj\Debug\POMExample.cs
 C:\Users\zelimir.ilic\source\repos\POMExample\POMExample\obj\Debug\POMExample.csproj.CopyComplete
 C:\Users\zelimir.ilic\source\repos\POMExample\POMExample\obj\Debug\POMExample.dll
 C:\Users\zelimir.ilic\source\repos\POMExample\POMExample\obj\Debug\POMExample.pdb
+C:\Users\zelimir.ilic\source\repos\POMExample\POMExample\obj\Debug\POMExample.csprojAssemblyReference.cache
