@@ -19,33 +19,54 @@ namespace SeleniumFirst
         [SetUp]
         public void Initialize()
         {
+            PropertiesCollection.driver = new ChromeDriver();
+
             //Navigate to Google page
-            driver.Navigate().GoToUrl("http://executeautomation.com/demosite/index.html?UserName=&Password=&Login=Login");
+            PropertiesCollection.driver.Navigate().GoToUrl("http://executeautomation.com/demosite/Login.html");
             Console.WriteLine("Opened URL");
         }
         [Test]
         public void ExecuteTest()
         {
-            //Title
-            SeleniumSetMethods.SelectDropDown(driver, "TitleId", "Ms.", "Id");
 
-            //Initial
-            SeleniumSetMethods.EnterText(driver, "Initial", "Zeljko SvastaPise", "Id");
+            //Login to App
+            LoginPageObject pageLogin = new LoginPageObject();
+            EAPageObject pageEA = pageLogin.Login("Execute", "Automation");
 
-            //First name
-            SeleniumSetMethods.EnterText(driver, "FirstName", "Zeljko", "Name");
 
-            //Middle Name
-            SeleniumSetMethods.EnterText(driver, "MiddleName", "Ilic","Name");
+            pageEA.FillUserForm("ZI", "Mr.", "Zeljko", "Adama");
+            
+           
 
-            //Gender
-            SeleniumSetMethods.Click(driver, "Female", "Name");
 
-            //Languages
-            SeleniumSetMethods.Click(driver, "Hindi", "Name");
 
-            //Save
-            SeleniumSetMethods.Click(driver, "Save", "Name");
+
+
+
+
+            ////Title
+            //SeleniumSetMethods.SelectDropDown("TitleId", "Ms.", "Id");
+
+            ////Initial
+            //SeleniumSetMethods.EnterText("Initial", "Zeljko SvastaPiseBukvalno", "Name");
+
+            //Console.WriteLine("The value from input Title is : " + SeleniumGetMethods.GetTextFromDDL("TitleId", "Id"));
+            //Console.WriteLine("The value from input Initial is : " + SeleniumGetMethods.GetText("Initial", "Name"));
+
+            ////First name
+            //SeleniumSetMethods.EnterText("FirstName", "Zeljko", "Name");
+
+            ////Middle Name
+            //SeleniumSetMethods.EnterText("MiddleName", "Ilic","Name");
+
+            ////Gender
+            //SeleniumSetMethods.Click("Female", "Name");
+
+            ////Languages
+            //SeleniumSetMethods.Click("Hindi", "Name");
+
+            ////Save
+            //SeleniumSetMethods.Click("Save", "Name");
         }
         [Test]
         public void NextTest()
@@ -55,7 +76,7 @@ namespace SeleniumFirst
         [TearDown]
         public void CleanUp()
         {
-            driver.Close();
+            //PropertiesCollection.driver.Close();
             Console.WriteLine("Closed the browser");
         }
     }

@@ -4,19 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using OpenQA.Selenium;
+using OpenQA.Selenium.Support;
+using OpenQA.Selenium.Support.UI;
 
 namespace SeleniumFirst
 {
     class SeleniumGetMethods
     {
-        public static string GetText(IWebDriver driver, string element, string elementType)
+        public static string GetText(IWebElement element, string value)
         {
-            if (elementType == "Id")
-                return driver.FindElement(By.Id(element)).Text;
-            if (elementType == "Name")
-                return driver.FindElement(By.Name(element)).Text;
-            else
-                return string.Empty;
+            return element.GetAttribute(value);
+        }
+        public static string GetTextFromDDL(IWebElement element)
+        {
+            return new SelectElement(element).AllSelectedOptions.SingleOrDefault().Text;
         }
     }
 }
